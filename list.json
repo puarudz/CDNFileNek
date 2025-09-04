@@ -1,6 +1,6 @@
 [
   {
-    "name": "Google-Chrome",
+    "name": "Google Chrome",
     "exe_url": "https://github.com/puarudz/CDNFileNek/raw/refs/heads/main/ChromeSetup.exe",
     "silent_args": "/S"
   },
