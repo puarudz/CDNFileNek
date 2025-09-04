@@ -5,8 +5,18 @@
     "silent_args": "/S"
   },
   {
-    "name": "7-Zip",
-    "exe_url": "https://www.7-zip.org/a/7z2408-x64.exe",
+    "name": "Notepad++",
+    "exe_url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.5/npp.8.8.5.Installer.x64.exe",
+    "silent_args": "/S"
+  },
+  {
+    "name": "Winrar",
+    "exe_url": "https://www.rarlab.com/rar/winrar-x64-713.exe",
+    "silent_args": "/S"
+  },
+  {
+    "name": "Google-Chrome",
+    "exe_url": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B100B123F-E6DA-65ED-8A6B-111AC2991EAE%7D%26lang%3Den%26browser%3D5%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3D-arch_x64-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe",
     "silent_args": "/S"
   },
   {
