@@ -5,6 +5,11 @@
     "silent_args": "/S"
   },
   {
+    "name": "Microsoft Edge",
+    "exe_url": "https://github.com/puarudz/CDNFileNek/raw/refs/heads/main/MicrosoftEdgeSetup.exe",
+    "silent_args": "/S"
+  },
+  {
     "name": "Notepad++",
     "exe_url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.5/npp.8.8.5.Installer.x64.exe",
     "silent_args": "/S"
@@ -17,6 +22,11 @@
   {
     "name": "7-Zip",
     "exe_url": "https://www.7-zip.org/a/7z2501-x64.exe",
+    "silent_args": "/S"
+  },
+  {
+    "name": "Java 8",
+    "exe_url": "https://files-tool.v4u.qzz.io/files/jre-8u461-windows-x64.exe",
     "silent_args": "/S"
   },
   {
