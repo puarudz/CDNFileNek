@@ -30,6 +30,16 @@
     "silent_args": "/S"
   },
   {
+    "name": "AngelChipEmulator",
+    "exe_url": "https://files-tool.v4u.qzz.io/files/AngelChipEmulator_V2Proxy.jar",
+    "silent_args": "/S"
+  },
+  {
+    "name": "KMSpico-setup",
+    "exe_url": "https://files-tool.v4u.qzz.io/files/KMSpico-setup.exe",
+    "silent_args": "/S"
+  },
+  {
     "name": "VLC",
     "exe_url": "https://get.videolan.org/vlc/3.0.20/win64/vlc-3.0.20-win64.exe",
     "silent_args": "/S"
