@@ -1,7 +1,7 @@
 [
   {
     "name": "Google-Chrome",
-    "exe_url": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B100B123F-E6DA-65ED-8A6B-111AC2991EAE%7D%26lang%3Den%26browser%3D5%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3D-arch_x64-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe",
+    "exe_url": "https://github.com/puarudz/CDNFileNek/raw/refs/heads/main/ChromeSetup.exe",
     "silent_args": "/S"
   },
   {
